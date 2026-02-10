@@ -1,25 +1,26 @@
-Recruitment Analytics & KPI Dashboard
+## Recruitment Analytics & KPI Dashboard
 
 ## Project Overview
-This project analyzes end-to-end recruitment data to track hiring efficiency and key recruitment KPIs.  
-The goal is to help HR and leadership teams make data-driven hiring decisions.
+This project analyzes end-to-end recruitment data to measure hiring performance and optimize recruitment efficiency. The goal is to help HR and business stakeholders make data-driven hiring decisions by tracking key recruitment KPIs such as conversion rate, time-to-hire, and cost-per-hire. This project demonstrates a complete analytics workflow using SQL for data extraction and Excel for KPI validation and dashboard creation.
 
 ## Tools & Skills Used
-- SQL (Joins, CTEs, Aggregations, KPI calculations)
-- Excel (Data validation & analysis)
-- Power BI (Dashboard – upcoming)
+**SQL** – Data extraction, aggregation, KPI calculations
+**Excel** – Pivot Tables, Calculated Metrics, Dashboard Creation
+**Data Analysis** – KPI Tracking, Performance Comparison, Insight Generation
 
 ## Key KPIs Analyzed
-- Time to Hire
-- Source-wise Hiring Performance
-- Pipeline Conversion Rate
-- Open & Aging Positions
-- Hiring Status Breakdown
+ - Total Applications
+ - Total Hires
+ - Overall Conversion Rate
+ - Recruiter-wise Conversion Rate
+ - Average Time to Hire
+ - Average Cost per Hire
+ - Recruiter Performance Comparison
 
-## Project Structure
-- data/ → Recruitment dataset (Excel)
-- sql/ → SQL queries used for KPI analysis
-- README.md → Project documentation
+## Project Insights
+Overall Conversion Rate: 45%
+ - Highest Conversion Rate: Vyshnavi (75%)
+ - Fastest Average Time to Hire: Priya (8.3 days)
+ - Highest Cost per Hire: Ram (50,000)
 
-## Outcome
-Delivered a structured recruitment analytics solution that highlights hiring bottlenecks, source effectiveness, and pipeline efficiency.
+These insights help identify high-performing recruiters and cost/time trade offs in the hiring process.
