@@ -1,37 +1,25 @@
-# Recruitment-analytics-dashboard
-End-to-end Recruitment Analytics project using SQL, Excel, and Power BI
-
 Recruitment Analytics & KPI Dashboard
 
 ## Project Overview
-This project focuses on analyzing recruitment data to evaluate hiring efficiency, recruiter performance, and recruitment pipeline health. It simulates a real-world HR analytics use case using SQL, Excel, and Power BI.
+This project analyzes end-to-end recruitment data to track hiring efficiency and key recruitment KPIs.  
+The goal is to help HR and leadership teams make data-driven hiring decisions.
 
-## Dataset
-The dataset contains end-to-end recruitment lifecycle information including:
-- Candidate ID
-- Job ID
-- Department
-- Recruiter
-- Application, interview, offer, and joining dates
-- Candidate status and rejection stage
-- Cost per hire
+## Tools & Skills Used
+- SQL (Joins, CTEs, Aggregations, KPI calculations)
+- Excel (Data validation & analysis)
+- Power BI (Dashboard – upcoming)
 
-- ## Key KPIs & Metrics
-- Time-to-hire
-- Time-to-interview
-- Offer acceptance rate
-- Recruiter-wise performance
-- Department-wise hiring funnel
-- Aging candidates analysis
-- Cost per hire trends
+## Key KPIs Analyzed
+- Time to Hire
+- Source-wise Hiring Performance
+- Pipeline Conversion Rate
+- Open & Aging Positions
+- Hiring Status Breakdown
 
-## Tools & Technologies
-- **SQL**: Data extraction, KPI calculations, and transformations  
-- **Excel**: Data cleaning, validation, and pivot analysis  
-- **Power BI**: Interactive dashboards and visual storytelling  
+## Project Structure
+- data/ → Recruitment dataset (Excel)
+- sql/ → SQL queries used for KPI analysis
+- README.md → Project documentation
 
-## Dashboard Insights
-- Identified hiring bottlenecks across departments
-- Compared recruiter efficiency using time-to-hire metrics
-- Analyzed pipeline conversion from application to joining
-- Highlighted aging positions to improve hiring turnaround time
+## Outcome
+Delivered a structured recruitment analytics solution that highlights hiring bottlenecks, source effectiveness, and pipeline efficiency.
